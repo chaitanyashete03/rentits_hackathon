@@ -379,7 +379,7 @@ export default function CodeChestApp() {
             className="flex-1 flex flex-col"
           >
             <h2 className="mb-5 text-2xl font-black uppercase tracking-tight">Customization</h2>
-            <div className="glass-card p-6 flex flex-col items-center mb-8 border-primary/20 bg-primary/[0.02]">
+            <div className="glass-card p-6 flex flex-col items-center mb-8 border-primary/20 bg-primary/2">
               <div className="w-[100px] h-[100px] rounded-[28px] flex justify-center items-center text-[50px] bg-surface border-2 border-primary mb-4 shadow-[0_0_30px_rgba(204,255,0,0.15)]">
                 {store.avatar}
               </div>
